@@ -2,3 +2,5 @@
 
 Esta etapa de ejercicios son en base de la migracion de pseudocodigo a Java
 En el mismo se esta aprende varias conceptos de logica
+
+Estos ejercicios fueron realizados en netbeans 14
