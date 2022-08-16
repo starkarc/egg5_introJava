@@ -32,7 +32,7 @@ la función Substring y equals() de Java.*/
            
        frase=frase.substring(0,1);
         
-        if(letra.equals(frase))
+        if(letra.equals(frase))// letra es el resultado buscado a comparar y frase dentro de equals la letra a evaluar
         {
             System.out.println("CORRECTO");
         }else{
